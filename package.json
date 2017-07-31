@@ -1,0 +1,32 @@
+{
+  "name": "imgur",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raghib Hasan",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-react": "^3.0.1",
+    "gulp-sass": "^2.0.1",
+    "gulp-server-livereload": "^1.7.3",
+    "gulp-util": "^3.0.4",
+    "gulp-watch": "^4.2.4",
+    "lodash": "^4.7.0",
+    "node-notifier": "^4.2.1",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-router": "1.0.0-beta2",
+    "reactify": "^1.1.0",
+    "reflux": "^0.4.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0",
+    "whatwg-fetch": "^0.11.0"
+  },
+  "devDependencies": {}
+}
